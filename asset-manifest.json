@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/rebofriends/static/css/main.45a0cde2.chunk.css",
+    "main.js": "/rebofriends/static/js/main.8c967ea8.chunk.js",
+    "main.js.map": "/rebofriends/static/js/main.8c967ea8.chunk.js.map",
+    "runtime-main.js": "/rebofriends/static/js/runtime-main.ca0c28e5.js",
+    "runtime-main.js.map": "/rebofriends/static/js/runtime-main.ca0c28e5.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/rebofriends/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.88b08eb1.chunk.js": "/rebofriends/static/js/2.88b08eb1.chunk.js",
+    "static/js/2.88b08eb1.chunk.js.map": "/rebofriends/static/js/2.88b08eb1.chunk.js.map",
+    "index.html": "/rebofriends/index.html",
+    "precache-manifest.eb73fd1866f82db0fc104d7910d4a6cf.js": "/rebofriends/precache-manifest.eb73fd1866f82db0fc104d7910d4a6cf.js",
+    "service-worker.js": "/rebofriends/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/rebofriends/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.45a0cde2.chunk.css.map": "/rebofriends/static/css/main.45a0cde2.chunk.css.map",
+    "static/js/2.88b08eb1.chunk.js.LICENSE.txt": "/rebofriends/static/js/2.88b08eb1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/rebofriends/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca0c28e5.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.88b08eb1.chunk.js",
+    "static/css/main.45a0cde2.chunk.css",
+    "static/js/main.8c967ea8.chunk.js"
+  ]
+}
